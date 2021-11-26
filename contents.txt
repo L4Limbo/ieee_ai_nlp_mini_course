@@ -1,9 +1,0 @@
-1. Introduction 
-2. Pre-processing -> Basics
-3. Word Embeddings -> Basics
-4. N-Grams -> Text Generation
-5. HMM -> Text Generation - Text Completion
-6. RNN -> // Movie Recommendation
-7. LSTM -> // Email Classification
-8. Transformers -> BERT / GPT-2 -> // Summarization/QnA/Sentiment Analysis
-
